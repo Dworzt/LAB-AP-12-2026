@@ -1,4 +1,4 @@
-# LAB-AP-2-2026
+# LAB-AP-12-2026
 Repositori Tugas Praktikum Algoritma dan Pemrograman 2026
 
 Requirements:
@@ -12,7 +12,7 @@ Clone repositori hasil fork anda
 git clone https://github.com/YOUR_USERNAME/LAB-AP-12-2026.git
 Setelah anda clone, masuk ke folder hasil clone tersebut lalu buat branch dengan nama NIM anda
 
-cd LAP-AP-02-2023
+cd LAP-AP-12-2026
 git branch NIM_ANDA
 git checkout NIM_ANDA
 git config user.name USERNAME_GITHUB
@@ -62,7 +62,7 @@ Cara membuat personal access token:
 #3. Scroll ke bagian bawah dan pilih menu Dveloper settings
 #4. Pilih Prsonal access tokens
 #5. Pilih Generate new tokes
-#6. Tuliskan note untuk token anda (ex: Token for LAB-AP-02-2023)
+#6. Tuliskan note untuk token anda (ex: Token for LAB-AP-12-2026)
 #7. Atur waktu expiration token anda (sesuai keinginan anda)
 #8. Pada select scope, ceklis box repo
 #9. Klik generate new token
