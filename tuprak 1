@@ -1,0 +1,16 @@
+menu = ["kopi susu", "matcha latte", "americano"]
+jumlah = [4, 3, 5]
+harga = [18000, 22000, 15000]
+
+#point 1
+sub_kopi = harga [0] * jumlah[0]
+sub_matcha = harga [1] * jumlah[1]
+sub_americano = harga [2] * jumlah [2]
+
+print (sub_kopi)
+print (sub_matcha)
+print (sub_americano)
+
+#point 2
+total_pendapatan = [sub_kopi, sub_matcha, sub_americano]
+print (total_pendapatan)
